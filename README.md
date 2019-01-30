@@ -1,1 +1,1 @@
-# NLP-projects
+# NLP-projects### - Spam-or-ham project determines whether the message is spam or ham using the TF-IDF transform and machine learning models such as gradient boosting and random forest.### - IMDB project predicts the tone of the response to the film with the RNN.
